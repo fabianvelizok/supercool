@@ -1,3 +1,3 @@
 # supercool
 
-Supercool project
+Supercool project!
